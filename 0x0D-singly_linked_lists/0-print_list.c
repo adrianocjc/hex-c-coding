@@ -25,4 +25,4 @@ size_t nodes = 0;
 		h = h->next;
 	}
 	return (nodes);
-{
+}
